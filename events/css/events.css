@@ -1,0 +1,59 @@
+h1{
+    padding: 5%;
+}
+
+.day1 ,.day2, .day3{
+    width: 30%;
+    padding: 5px;
+}
+
+.day1content, .day2content, .day3content{
+    width: 60%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+
+.day1{
+    background-color: #e4030383;
+
+}
+
+.day1content{
+    background-color:#ff8c0088;
+}
+
+.day2{
+    background-color:#ffee0088; 
+}
+
+.day2content{
+    background-color:#0080267e;
+
+}
+
+.day3{
+    background-color:#004cff86;
+}
+
+.day3content{
+    background-color:#73298281 ;
+
+}
+
+.container{
+padding-left: 5%;
+padding-right: 5%;
+padding-bottom: 3%;
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+.container h2{
+    padding-top: 100px;
+}
+.container h5{
+    padding: 10px;
+}
