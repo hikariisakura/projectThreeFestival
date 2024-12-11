@@ -20,28 +20,28 @@ body{
 }
 
 .home{
-    background-image: url(/img/undertheRainbow.png);
+    background-image: url(../img/undertheRainbow.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
 }
 
 .about{
-    background-image: url(/img/rainbowColors.png);
+    background-image: url(../img/rainbowColors.png);
     background-repeat: no-repeat;
     background-size:cover;
     background-attachment: fixed;
 }
 
 .events{
-    background-image: url(/img/rainbowflag.png);
+    background-image: url(../img/rainbowflag.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 
 .shop{
-    background-image: url(/img/legoRainbow.png);
+    background-image: url(../img/legoRainbow.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
