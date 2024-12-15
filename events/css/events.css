@@ -16,6 +16,9 @@ h1{
 
 .day1{
     background-color: #e4030383;
+    background-image: url("../img/history.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
@@ -24,7 +27,11 @@ h1{
 }
 
 .day2{
-    background-color:#ffee0088; 
+    background-color:#ffee0088;
+    background-image: url("../img/parade.png"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 .day2content{
@@ -34,6 +41,10 @@ h1{
 
 .day3{
     background-color:#004cff86;
+    background-image: url("../img/concert.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 .day3content{
