@@ -180,8 +180,6 @@ footer{
     flex-direction: row;
 }
 
-
-
 .rainbow:hover{
     animation: rainbow 3.5s linear;
     -webkit-animation: rainbow 3.5s linear;
