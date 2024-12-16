@@ -196,3 +196,47 @@ footer{
         color: #732982;
     }
 }
+
+@media only screen and (max-width: 600px) {
+
+    .navigation{
+        padding: 10px 30px 10px 30px;
+    }
+
+    .home{
+        background-attachment: fixed;
+        background-position: center;
+    }
+
+    .logosmall{
+        margin-bottom: 6%;
+        width: 70px;
+    }
+
+    .logobig{
+        padding-top: 10px;
+    }
+    
+    .left li h5{
+        font-size: 20px;
+        font-weight: 400;
+        padding-left: 2px;
+        padding-bottom: 5px;
+    }
+    
+    .right li a, .left li a{
+        font-size: 20px;
+        font-weight: 400;
+        padding: 20px 15px;
+    }
+
+    h1{
+        font-size: 50px;
+        font-weight: 500;
+    }
+
+    h3{
+        font-size: 20px;
+        font-weight: 400;
+    }
+  }
