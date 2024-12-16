@@ -27,6 +27,10 @@ The website also features assets of mockups from Adobe Stock for the shop mercha
 
 ### Technical Overview
 
+#### LGBTQ+ Flag Official Colors
+
+https://www.flagcolorcodes.com/pride-rainbow
+
 #### Adobe Stock Mockups and My Changes
 
 T-shirt
@@ -59,10 +63,12 @@ Montserrat
 
 - https://fonts.google.com/specimen/Montserrat
 
-### Acknowledgement
+#### Coding Help
 
-https://til.simonwillison.net/css/simple-two-column-grid
+- https://til.simonwillison.net/css/simple-two-column-grid
 
-https://www.flagcolorcodes.com/pride-rainbow
+- https://codepen.io/zak/pen/rWJzPy
 
-https://codepen.io/zak/pen/rWJzPy
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+- https://www.w3schools.com/
